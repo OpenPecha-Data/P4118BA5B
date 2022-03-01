@@ -1,0 +1,574 @@
+id: bd51f930170f4e76b730e9e81eba5f7b
+annotation_type: index
+revision: '00001'
+annotations:
+  735bdf62bc924cf295bcb1f3bcf4b701:
+    work_id: WCDC868F2
+    span:
+      vol: CIII_10 Immeasurables
+      start: 0
+      end: 16111
+  0fa06a293cc048309cfaa1205faee0a7:
+    work_id: W36182923
+    span:
+      vol: CIII_10 Qualities
+      start: 0
+      end: 40619
+  5ae1dd65c1d24263a10689c16185079a:
+    work_id: W8F1874F2
+    span:
+      vol: CIII_10th Dharmānusmṛti
+      start: 0
+      end: 1970
+  bb80fe25a6a54e16a7965ea1f97671f2:
+    work_id: W88118F60
+    span:
+      vol: CIII_11th Saṃghānusmṛti
+      start: 0
+      end: 876
+  d2e38fa249d141f2a681a6807dc8485c:
+    work_id: W4980D481
+    span:
+      vol: CIII_12 Qualities
+      start: 0
+      end: 2237
+  46cec6c2d42e434298f3fc09c4fa537f:
+    work_id: W90141691
+    span:
+      vol: CIII_12th Tyāgānusmṛti
+      start: 0
+      end: 1805
+  6c581d7f28c44beea7e7b9294f10e758:
+    work_id: WB53F558E
+    span:
+      vol: CIII_13th Śīlānusmṛti
+      start: 0
+      end: 1405
+  d9005c4aed494dbe95d0940d211f0d35:
+    work_id: W1381A73A
+    span:
+      vol: CIII_15th Nirvāṇasamatā
+      start: 0
+      end: 2055
+  02e68617a9fa4dd681e609d8221e3a60:
+    work_id: WFB64B171
+    span:
+      vol: CIII_16th Caritalakṣaṇa
+      start: 0
+      end: 2415
+  53a79a862a6f4768a8ff30961457f6db:
+    work_id: W9890D789
+    span:
+      vol: CIII_17th Dharmaratnanidhāna
+      start: 0
+      end: 2835
+  8e12540e941a470ebbc34b2da2dd16bd:
+    work_id: W54725A83
+    span:
+      vol: CIII_18th Dharmasvabhāva
+      start: 0
+      end: 1765
+  f57e4bab98eb49cfad7b9e05c16c1cdd:
+    work_id: WD9DDA482
+    span:
+      vol: CIII_19th Satvādiviśuddhi
+      start: 0
+      end: 1472
+  3b3180d7271d4559b1827988667e4566:
+    work_id: WC5E11CCD
+    span:
+      vol: CIII_2 Vigours
+      start: 0
+      end: 785
+  b0fcbb18f4cd4a04b6ecc2bb2da08e36:
+    work_id: W18214FDD
+    span:
+      vol: CIII_20th Dharmaprayoga
+      start: 0
+      end: 3470
+  e4264f032047407aa659cddb10e987c2:
+    work_id: WEEE7E5A6
+    span:
+      vol: CIII_21th Dharmādhipateya
+      start: 0
+      end: 3045
+  c97434c63be64deba4f7cb62e3758a17:
+    work_id: W61F4AAF1
+    span:
+      vol: CIII_22th Dharmanaya
+      start: 0
+      end: 5704
+  4b8390adfe214e3bbb7e84d610a6de19:
+    work_id: WD7FDF1DB
+    span:
+      vol: CIII_23th Pratītyasamutpāda
+      start: 0
+      end: 2890
+  3385f7e4ab1a4fa4829d93e1310a142b:
+    work_id: WC551999B
+    span:
+      vol: CIII_24 Eloquence
+      start: 0
+      end: 1659
+  3b78bbc79e7e4126a228e9f9e85f15f3:
+    work_id: WE295990A
+    span:
+      vol: CIII_24 Preparations
+      start: 0
+      end: 6615
+  ceb425fd64344294a9567dfbc7a7d08a:
+    work_id: WECDB78AC
+    span:
+      vol: CIII_24th Tathāgatamudra
+      start: 0
+      end: 2423
+  fc09f780cbe1486aa3ac8c3837bf999f:
+    work_id: WF12EE340
+    span:
+      vol: CIII_25th Dharmadhātu
+      start: 0
+      end: 5230
+  f499665de02b47bd81e13d516f5716e2:
+    work_id: W228E8923
+    span:
+      vol: CIII_26th Dṛḍavajrāśaya
+      start: 0
+      end: 2397
+  d922b3e01b1b4726bb577afab7f2e84a:
+    work_id: WD6644CA2
+    span:
+      vol: CIII_27th Buddhaviṣaya
+      start: 0
+      end: 2871
+  8e53e041ae764628b0f0bde86b270188:
+    work_id: WBCD334CC
+    span:
+      vol: CIII_32 Purifications
+      start: 0
+      end: 2607
+  ec2572012ba24ade80b0a9161a82c75e:
+    work_id: W117BB398
+    span:
+      vol: CIII_32th Upajīvya
+      start: 0
+      end: 2200
+  a60483a4f00f4e069b18b6d7baee98d9:
+    work_id: WB9F9E927
+    span:
+      vol: CIII_33th Buddhakārya
+      start: 0
+      end: 1917
+  f44d6c9fd33f4615b8bdd45859f9b2dc:
+    work_id: W504B0EC0
+    span:
+      vol: CIII_34th Sāgaramudrāsamādhi
+      start: 0
+      end: 2276
+  15a5e69f886243aa84254a39edbeaf6d:
+    work_id: W427C82B4
+    span:
+      vol: CIII_35th Saṅgasamatikrānta
+      start: 0
+      end: 498
+  3f00aa52cf184dfdb532051668a3b6c1:
+    work_id: W336D991F
+    span:
+      vol: CIII_36th Ācāracāritra
+      start: 0
+      end: 512
+  390b569af27a4e0fb49e7c4bf14dec3e:
+    work_id: W31DE97DD
+    span:
+      vol: CIII_37th Svayaṃbhujñāna
+      start: 0
+      end: 577
+  784a953d8c95432785c7abbe7b72f7fe:
+    work_id: WE13808C9
+    span:
+      vol: CIII_4 Māras
+      start: 0
+      end: 645
+  ea6fb80657c640db8420ef1074a91fb0:
+    work_id: W7F55BF03
+    span:
+      vol: CIII_4 Qualities
+      start: 0
+      end: 31413
+  2daf3719c4b4461baa7af14eb073633c:
+    work_id: WF964E945
+    span:
+      vol: CIII_8 Patiences
+      start: 0
+      end: 940
+  4c6346474af84a72b9c0a6019b0f3149:
+    work_id: WBE3053A0
+    span:
+      vol: CIII_8 Purities
+      start: 0
+      end: 1614
+  a20ce01ee0fd4aabb66b39b3226d9e88:
+    work_id: W7747F316
+    span:
+      vol: CIII_8 Qualities
+      start: 0
+      end: 2060
+  1675c0d4a71e4e96b4f0a9745170107b:
+    work_id: W1D7D81F4
+    span:
+      vol: CIII_8 Vigours
+      start: 0
+      end: 1586
+  65ce310c5b394e7c9817ac4202be407d:
+    work_id: W7F3E1A3D
+    span:
+      vol: CIII_8th Jñāna
+      start: 0
+      end: 3576
+  95f92c76787b40789365290ab6e09c01:
+    work_id: WE3C1088C
+    span:
+      vol: CIII_9th Buddhānusmṛti
+      start: 0
+      end: 3508
+  fddd8e4a36144354b0bcd8c26f5cc051:
+    work_id: W9B84C069
+    span:
+      vol: CIII_Examples
+      start: 0
+      end: 1712
+  4613f05d66ff418884c50015907aba4a:
+    work_id: W8D33D84D
+    span:
+      vol: CIII_Meaning
+      start: 0
+      end: 3772
+  173cd3a2f00a44d786f957071b7cd3d4:
+    work_id: W24DA9B21
+    span:
+      vol: CIII_Memory
+      start: 0
+      end: 4087
+  7b0295e2e71e4f5fa27f19d3f55ef327:
+    work_id: W40F96DCB
+    span:
+      vol: CIII_Mārakarman
+      start: 0
+      end: 4607
+  dd563f8dffda467fbc1a9116ed752a89:
+    work_id: W42016E68
+    span:
+      vol: CIII_Pradīpapāṇi
+      start: 0
+      end: 2827
+  4989e67222b4404485b0a6c19f1c6675:
+    work_id: WAD2AE3AA
+    span:
+      vol: CIII_Qualities
+      start: 0
+      end: 2638
+  1b65a9002cd4453a8aa698b52f76d14a:
+    work_id: WCEFA9AFC
+    span:
+      vol: CIII_Similes
+      start: 0
+      end: 1366
+  7ab9085e808544f68b44727bdae6e3e6:
+    work_id: W3CB8E099
+    span:
+      vol: CIII_Verses 31-41
+      start: 0
+      end: 3262
+  c46af96f2dd84ca1af8123b40bc9423a:
+    work_id: W0140F4C3
+    span:
+      vol: CIII_Verses 42-51
+      start: 0
+      end: 2501
+  3b93fa9239a44edb917897a2a38ab9bc:
+    work_id: WE22B4DFE
+    span:
+      vol: CIII_Verses 52-56
+      start: 0
+      end: 1655
+  a0c1ffb102ba48a4b84e11b15de5406b:
+    work_id: WBC351406
+    span:
+      vol: CIII_Verses 57-66
+      start: 0
+      end: 2662
+  c0e16ac14a8743a2b3fa5700b7806cc8:
+    work_id: W80903B38
+    span:
+      vol: CIII_Verses 67-76
+      start: 0
+      end: 3084
+  0e7ab8ab213948d3835703509feed99e:
+    work_id: W0A8099E2
+    span:
+      vol: CIII_Verses 77-86
+      start: 0
+      end: 3909
+  338caf7498844a65b9fe9019ca5a5b16:
+    work_id: WACA3F75E
+    span:
+      vol: CIII_Verses 87-118
+      start: 0
+      end: 8550
+  960745d77e604dd0a248103c07b2fd22:
+    work_id: W0467C450
+    span:
+      vol: CIII_Vyākaraṇa
+      start: 0
+      end: 2393
+  a48526b28911482295deed9c29aca344:
+    work_id: WE0F4AFBC
+    span:
+      vol: CII_Bodhisattvas
+      start: 0
+      end: 1660
+  7606424c1b8a425b8aa8bade47b988a5:
+    work_id: W5A94359B
+    span:
+      vol: CII_Buddhaguṇa
+      start: 0
+      end: 5777
+  3f79b2337773411aa830580915114884:
+    work_id: W5FD0D025
+    span:
+      vol: CII_Dharmamudrā
+      start: 0
+      end: 6167
+  922f22ec43c04036bd8199493377bf97:
+    work_id: W86E33447
+    span:
+      vol: CII_Gaganagañja
+      start: 0
+      end: 8407
+  fcf11be1d6fb484095ef570673a98232:
+    work_id: W77D88315
+    span:
+      vol: CII_Kūṭāgāra
+      start: 0
+      end: 2206
+  85f3f895c9c648868719ec7c36ec9974:
+    work_id: W226920BB
+    span:
+      vol: CII_Verses 1-20
+      start: 0
+      end: 9087
+  ff76fdf02ec9408fa84821e58bf94e80:
+    work_id: W8FCED05E
+    span:
+      vol: CII_Verses 21-30
+      start: 0
+      end: 9372
+  670548351de243eba1a638e6f7e4fbd8:
+    work_id: W2AC6BA0D
+    span:
+      vol: CIV_Abhayadāna
+      start: 0
+      end: 2206
+  7d8da56603d0405da07c2a6501575bb4:
+    work_id: W9BA93BC4
+    span:
+      vol: CIV_Amṛtavarṣa
+      start: 0
+      end: 446
+  45c5e32cd9de4ef581e3c095cc72c08a:
+    work_id: W118AC94A
+    span:
+      vol: CIV_Dharmavarṣa
+      start: 0
+      end: 1959
+  2d853542f84942ba96f21c72f6d42429:
+    work_id: W72C8C6C1
+    span:
+      vol: CIV_Puṣpavarṣa
+      start: 0
+      end: 2379
+  4174d1609575411682a8140c4e71716f:
+    work_id: W23C526FF
+    span:
+      vol: CIV_Pāramitāvarṣa
+      start: 0
+      end: 2952
+  a89450c509cd41d6baefb2cfc940916f:
+    work_id: W30D7FA09
+    span:
+      vol: CIV_Ratnavarṣa
+      start: 0
+      end: 1663
+  e19f472179c2404da06eca4ec14c3b4f:
+    work_id: WC49C8C8D
+    span:
+      vol: CIV_Verses 119-122
+      start: 0
+      end: 12838
+  10dd926d9b584abbb579685f193d16d0:
+    work_id: WEF9D2583
+    span:
+      vol: CIV_Āhāracīvaravarṣa
+      start: 0
+      end: 1197
+  053a14ab1b90484e89d26accace55ac5:
+    work_id: WF9232416
+    span:
+      vol: CI_Bodhisatvas
+      start: 0
+      end: 6414
+  572ec4bf38714110933b2c0a664e877d:
+    work_id: WA272BF55
+    span:
+      vol: CI_Buddha
+      start: 0
+      end: 1535
+  34981a5b16d14cd994658f7e635ab16e:
+    work_id: W19F3D675
+    span:
+      vol: CVII_Brahmā Sahāṃpati
+      start: 0
+      end: 3169
+  1a4c949fb3eb4a0c951e47d51525035a:
+    work_id: W9498999E
+    span:
+      vol: CVII_Cāturmahārāja
+      start: 0
+      end: 2594
+  5980e5c6daba462e8625ccadf52e1a5f:
+    work_id: WD16A1B08
+    span:
+      vol: CVII_Mahākāśyapa and Ānanda
+      start: 0
+      end: 538
+  2206dce713ff4ae5bee515099f1bf8c9:
+    work_id: W2A073C7A
+    span:
+      vol: CVII_Maitreya
+      start: 0
+      end: 2759
+  16cc5de857d84754ab4a5730a60d18f1:
+    work_id: WC9890EC7
+    span:
+      vol: CVII_Verses 233-238
+      start: 0
+      end: 6767
+  7a641203934243b5b0d62dbfc1e6447b:
+    work_id: W77E6716E
+    span:
+      vol: CVII_Śakra Devānām Indra
+      start: 0
+      end: 2523
+  bfc0b1fbe66f4a5587fd123b1c388702:
+    work_id: W532AB2F4
+    span:
+      vol: CVI_Brahmā Prabhāvyūha
+      start: 0
+      end: 15076
+  e5085198789b441eb5e5935f530fdaa0:
+    work_id: WAADCACA4
+    span:
+      vol: CVI_Lokottaramārga
+      start: 0
+      end: 18402
+  09cb2082306e43ec8be4a3d42ff1e14e:
+    work_id: W8A3AA8AC
+    span:
+      vol: CVI_Mahāyāna
+      start: 0
+      end: 56774
+  599f7d72370b45b582e2c4a7b68282ab:
+    work_id: WA4C7F332
+    span:
+      vol: CVI_Māra Pāpīyān
+      start: 0
+      end: 21789
+  58b70ac821784904ae560167d1f23647:
+    work_id: WAAACA427
+    span:
+      vol: CVI_Ratnaśrī
+      start: 0
+      end: 14255
+  ec2c5c5154de432fa354c97c669f559c:
+    work_id: W44294999
+    span:
+      vol: CVI_Saṃnāha
+      start: 0
+      end: 3766
+  0a81f59f9a534f7ab118efde8efcd672:
+    work_id: WAEF413B4
+    span:
+      vol: CVI_Verses 165-184
+      start: 0
+      end: 168189
+  a4db857d76fc43b6b17a39b3759ccf9f:
+    work_id: W0DE504E0
+    span:
+      vol: CVI_Verses 185-192
+      start: 0
+      end: 38453
+  56f988d5ad0c44058b3215d7c0f3bfc8:
+    work_id: W6448E054
+    span:
+      vol: CVI_Verses 193-232
+      start: 0
+      end: 32326
+  c4edbd4069a54db9b9bcbed98e84cbc6:
+    work_id: W13DF8F18
+    span:
+      vol: CVI_Ānanda
+      start: 0
+      end: 4781
+  b148e58753144b4783f5954ca060f8db:
+    work_id: WD95CE8EE
+    span:
+      vol: CVI_Śakrabrahmalokapāla
+      start: 0
+      end: 11138
+  e6475976f51e447295e6bcc51695d4dd:
+    work_id: WEEAFDF0A
+    span:
+      vol: CV_Kutūhalajāta
+      start: 0
+      end: 4596
+  3790761a80ac416e9e12b1462fa3ff2b:
+    work_id: W6FBCBB78
+    span:
+      vol: CV_Samādhi
+      start: 0
+      end: 12868
+  697ba51d07e947b2a2de9add12e63617:
+    work_id: WEEEB6324
+    span:
+      vol: CV_Samādhimukha
+      start: 0
+      end: 2167
+  3d13fcacc70d4dd985654846ffe18cc4:
+    work_id: W44F74578
+    span:
+      vol: CV_Verses 123-164
+      start: 0
+      end: 12417
+  c880209a69c84ff89d415597b8ecc961:
+    work_id: W82B15275
+    span:
+      vol: CV_Śāriputra
+      start: 0
+      end: 8953
+  854d6196911b42268d849f02a8da710f:
+    work_id: W82CB7BC7
+    span:
+      vol: Colophon
+      start: 0
+      end: 339
+  964b49bda4f343378f2b503b78e33915:
+    work_id: W82248C80
+    span:
+      vol: III. 37 Questions
+      start: 0
+      end: 4450
+  e51b25ea8d0b4dd5962b02c7ac1edf1b:
+    work_id: W10FA4BD9
+    span:
+      vol: Title
+      start: 0
+      end: 258
